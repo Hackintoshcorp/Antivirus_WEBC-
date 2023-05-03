@@ -1,0 +1,15 @@
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\bin\Debug\net6.0\kursinis.exe
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\bin\Debug\net6.0\kursinis.deps.json
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\bin\Debug\net6.0\kursinis.runtimeconfig.json
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\bin\Debug\net6.0\kursinis.dll
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\bin\Debug\net6.0\kursinis.pdb
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\kursinis.csproj.AssemblyReference.cache
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\kursinis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\kursinis.AssemblyInfoInputs.cache
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\kursinis.AssemblyInfo.cs
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\kursinis.csproj.CoreCompileInputs.cache
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\kursinis.dll
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\refint\kursinis.dll
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\kursinis.pdb
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\kursinis.genruntimeconfig.cache
+C:\Users\laurynasbielevicius\source\repos\kursinis\kursinis\obj\Debug\net6.0\ref\kursinis.dll
